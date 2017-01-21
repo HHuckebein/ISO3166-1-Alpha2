@@ -1,0 +1,1762 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 21,
+      "symbol": "ISO3166_1Alpha2",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ae",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.af",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ag",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.al",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.am",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ao",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.aq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.as",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.at",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.au",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.aw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.ax",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 23,
+      "symbol": "ISO3166_1Alpha2.az",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.ba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.be",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.br",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.by",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 24,
+      "symbol": "ISO3166_1Alpha2.bz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.ca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.ch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.ci",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.ck",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.co",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cx",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 25,
+      "symbol": "ISO3166_1Alpha2.cz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.de",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.dj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.dk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.dm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.do",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 26,
+      "symbol": "ISO3166_1Alpha2.dz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.ec",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.ee",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.eg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.eh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.er",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.es",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.et",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 27,
+      "symbol": "ISO3166_1Alpha2.fr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.ga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.ge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 28,
+      "symbol": "ISO3166_1Alpha2.gy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.hk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.hm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.hn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.hr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.ht",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 29,
+      "symbol": "ISO3166_1Alpha2.hu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.ie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.il",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.im",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.in",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.io",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.iq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.ir",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.is",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 30,
+      "symbol": "ISO3166_1Alpha2.it",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 31,
+      "symbol": "ISO3166_1Alpha2.je",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 31,
+      "symbol": "ISO3166_1Alpha2.jm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 31,
+      "symbol": "ISO3166_1Alpha2.jo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 31,
+      "symbol": "ISO3166_1Alpha2.jp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.ke",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.ki",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.km",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.ky",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 32,
+      "symbol": "ISO3166_1Alpha2.kz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.la",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.li",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.ls",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.lv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 33,
+      "symbol": "ISO3166_1Alpha2.ly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.ma",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.md",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.me",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.ml",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.ms",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mx",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.my",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 34,
+      "symbol": "ISO3166_1Alpha2.mz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.na",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.ne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.ng",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.ni",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.no",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.np",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 35,
+      "symbol": "ISO3166_1Alpha2.nz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 36,
+      "symbol": "ISO3166_1Alpha2.om",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.ph",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.ps",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.pw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 37,
+      "symbol": "ISO3166_1Alpha2.py",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 38,
+      "symbol": "ISO3166_1Alpha2.qa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 39,
+      "symbol": "ISO3166_1Alpha2.re",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 39,
+      "symbol": "ISO3166_1Alpha2.ro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 39,
+      "symbol": "ISO3166_1Alpha2.rs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 39,
+      "symbol": "ISO3166_1Alpha2.ru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 39,
+      "symbol": "ISO3166_1Alpha2.rw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.se",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.si",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.so",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.ss",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.st",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sx",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 40,
+      "symbol": "ISO3166_1Alpha2.sz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.td",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.th",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.to",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 41,
+      "symbol": "ISO3166_1Alpha2.tz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.ua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.ug",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.um",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.us",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.uy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 42,
+      "symbol": "ISO3166_1Alpha2.uz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.va",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.vc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.ve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.vg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.vi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.vn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 43,
+      "symbol": "ISO3166_1Alpha2.vu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 44,
+      "symbol": "ISO3166_1Alpha2.wf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 44,
+      "symbol": "ISO3166_1Alpha2.ws",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 45,
+      "symbol": "ISO3166_1Alpha2.ye",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 45,
+      "symbol": "ISO3166_1Alpha2.yt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 46,
+      "symbol": "ISO3166_1Alpha2.za",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 46,
+      "symbol": "ISO3166_1Alpha2.zm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 46,
+      "symbol": "ISO3166_1Alpha2.zw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2/Sources/ISO3166_1Alpha2.swift",
+      "line": 53,
+      "symbol": "ISO3166_1Alpha2.init(countryName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/bernd/Documents/iPhoneDev/Projects/Public/ISO3166_1Alpha2"
+}
