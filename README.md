@@ -48,7 +48,7 @@ To integrate ISO3661-1 Alpha 2 into your Xcode project using Carthage, specify i
 github "HHuckebein/ISO3166-1-Alpha2"
 ```
 
-Run `carthage` to build the framework and drag the built `ISO3166-1-Alpha2.framework` into your Xcode project.
+Run `carthage` to build the framework and drag the built `ISO3166_1Alpha2.framework` into your Xcode project.
 
 
 ## Author
