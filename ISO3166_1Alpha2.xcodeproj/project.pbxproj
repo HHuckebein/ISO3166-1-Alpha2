@@ -32,6 +32,7 @@
 		736D9BA81E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2.swift; sourceTree = "<group>"; };
 		73BF9BFD1E33AB6D00577C30 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		73BF9BFF1E33C11200577C30 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		736D9B8E1E33A3DE008AE235 = {
 			isa = PBXGroup;
 			children = (
+				73BF9BFF1E33C11200577C30 /* LICENSE.txt */,
 				73BF9BFD1E33AB6D00577C30 /* README.md */,
 				736D9B9A1E33A3DE008AE235 /* Sources */,
 				736D9BA51E33A3DE008AE235 /* ISO3661_1Alpha2Tests */,
