@@ -11,8 +11,6 @@ env:
 
 notifications:
   slack:
-    on_success: always
-    on_failure: change
    rooms:
       secure: NpldNpXUj6REODwgCuGhX7KOXgjtJ25j7Zd9tlFoqwMlKYbyaaH9m+NhVsqjyAHFfGixm3mq7bJpvaCE6PESo5DU2M3H9bBt6U/zzaEcoeWBXHS5pIE1Rc1q6GvZijqp61iSX+zhNDrIX2QqzJU3aG04fomXPPK3d4mW/hpk0ghmA9CTCMYzxXy43J9gK2uMY4/h0GAdCnl5GcjMp4k9AsU/3Qh5JOZ5z+yb9IaBMRX/doOi+o/eq1jXLid5JyzyBWWVnqwK8JrNwURHpGZFYCTEjsn+rWi1/LTpsCTfhFQvD/xll5IanNDVC4hrCOYremldXGIc/HgXsntmuj5VbyRUKYYABxeuijWoVFsRwdD5Ab5P6VZaLeTqaw14TDa9WP4lBKD342/uPN/uqZsndLDLyp5wLZ7CeOWKrg3+HzBKrD90E2NkgOatfyDN/kSvDJk+TBnn8/l3LAWNXLqnN7Do3g2OTLTffC0728swm1J7eJDMR/hgxmpkrxYSS8W5m4Hni6lLBNAdkEdgrsUQf9u2APtumV0j+gSx3qb+usklOaJt1MxI8y45I7xOFxSR5gdfqSHEGW1eojr/rsjPeziRa8GEWA5b8aXmsXg2AtoFrdBjI3MzQEqRWbZAvusBrr/NV/GTFGTY/e4WCrnjATDxUI2zDsqlO3gm+AaDldI=
 
