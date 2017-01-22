@@ -14,10 +14,17 @@ class ISO3166_1Alpha2Tests: XCTestCase {
     
     func test_knownCodes_passes_isISO3166_1Alpha2 () {
         for code in knownCodes {
-            XCTAssert(code.isISO3166_1Alpha2)
+            XCTAssertTrue(code.isISO3166_1Alpha2)
         }
+        XCTAssertTrue("DE".isISO3166_1Alpha2)
     }
     
+    func test_knownCodes_passes_isISO3166_1Alpha2_Uppercase () {
+        for code in knownCodes {
+            XCTAssertTrue(code.uppercased().isISO3166_1Alpha2)
+        }
+    }
+
     func test_knownCodes_fails_WrongLength () {
         XCTAssert("134".isISO3166_1Alpha2 == false)
     }
