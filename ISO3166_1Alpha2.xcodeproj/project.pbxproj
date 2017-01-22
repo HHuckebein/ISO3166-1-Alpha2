@@ -11,6 +11,8 @@
 		736D9BA71E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */; };
 		736D9BA91E33A3DE008AE235 /* ISO3166_1Alpha2.h in Headers */ = {isa = PBXBuildFile; fileRef = 736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		736D9BB31E33A416008AE235 /* ISO3166_1Alpha2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */; };
+		73A032B31E34E12F007F889F /* Hamcrest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73A032B21E34E12F007F889F /* Hamcrest.framework */; };
+		73A032B51E34E13D007F889F /* Hamcrest.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 73A032B21E34E12F007F889F /* Hamcrest.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,6 +25,19 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		73A032B41E34E135007F889F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				73A032B51E34E13D007F889F /* Hamcrest.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		736D9B981E33A3DE008AE235 /* ISO3166_1Alpha2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ISO3166_1Alpha2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISO3166_1Alpha2.h; sourceTree = "<group>"; };
@@ -31,6 +46,7 @@
 		736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2Tests.swift; sourceTree = "<group>"; };
 		736D9BA81E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2.swift; sourceTree = "<group>"; };
+		73A032B21E34E12F007F889F /* Hamcrest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Hamcrest.framework; path = Carthage/Build/iOS/Hamcrest.framework; sourceTree = "<group>"; };
 		73BF9BFD1E33AB6D00577C30 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		73BF9BFF1E33C11200577C30 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -47,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73A032B31E34E12F007F889F /* Hamcrest.framework in Frameworks */,
 				736D9BA21E33A3DE008AE235 /* ISO3166_1Alpha2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -62,6 +79,7 @@
 				736D9B9A1E33A3DE008AE235 /* Sources */,
 				736D9BA51E33A3DE008AE235 /* ISO3661_1Alpha2Tests */,
 				736D9B991E33A3DE008AE235 /* Products */,
+				73A032B11E34E12F007F889F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -91,6 +109,14 @@
 				736D9BA81E33A3DE008AE235 /* Info.plist */,
 			);
 			path = ISO3661_1Alpha2Tests;
+			sourceTree = "<group>";
+		};
+		73A032B11E34E12F007F889F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				73A032B21E34E12F007F889F /* Hamcrest.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,6 +158,7 @@
 				736D9B9D1E33A3DE008AE235 /* Sources */,
 				736D9B9E1E33A3DE008AE235 /* Frameworks */,
 				736D9B9F1E33A3DE008AE235 /* Resources */,
+				73A032B41E34E135007F889F /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -371,6 +398,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";
@@ -383,6 +414,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";

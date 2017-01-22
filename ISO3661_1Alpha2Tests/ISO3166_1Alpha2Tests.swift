@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import Hamcrest
 @testable import ISO3166_1Alpha2
 
 class ISO3166_1Alpha2Tests: XCTestCase {
@@ -14,48 +15,47 @@ class ISO3166_1Alpha2Tests: XCTestCase {
     
     func test_knownCodes_passes_isISO3166_1Alpha2 () {
         for code in knownCodes {
-            XCTAssertTrue(code.isISO3166_1Alpha2)
+            assertThat(code.isISO3166_1Alpha2 == true)
         }
-        XCTAssertTrue("DE".isISO3166_1Alpha2)
     }
     
     func test_knownCodes_passes_isISO3166_1Alpha2_Uppercase () {
         for code in knownCodes {
-            XCTAssertTrue(code.uppercased().isISO3166_1Alpha2)
+            assertThat(code.uppercased().isISO3166_1Alpha2 == true)
         }
     }
 
     func test_knownCodes_fails_WrongLength () {
-        XCTAssert("134".isISO3166_1Alpha2 == false)
+        assertThat("134".isISO3166_1Alpha2 == false)
     }
     
     func test_knownCodes_fails_WrongString () {
-        XCTAssert("XX".isISO3166_1Alpha2 == false)
+        assertThat("XX".isISO3166_1Alpha2 == false)
     }
     
     func test_InitFromRawValue() {
         for code in knownCodes {
-            XCTAssertNotNil(ISO3166_1Alpha2(rawValue: code), "Failed to get ISO3166-1 Alpha2 from rawValue \(code)")
-            XCTAssertNotNil(ISO3166_1Alpha2(value: code.uppercased()), "Failed to get ISO3166-1 Alpha2 from value \(code.uppercased())")
+            assertThat(ISO3166_1Alpha2(rawValue: code), not(nilValue()))
+            assertThat(ISO3166_1Alpha2(value: code.uppercased()), not(nilValue()))
         }
     }
     
     func test_knownCodes() {
         let allCodes = ISO3166_1Alpha2.knowCodes
-        XCTAssertEqual(allCodes.count, 249)
+        assertThat(allCodes.count == 249)
     }
     
     func test_InitFromCountryName() {
         let names = ISO3166_1Alpha2.knowCodes.flatMap({ ISO3166_1Alpha2(rawValue: $0) }).map({ $0.countryName })
         for name in names {
-            XCTAssertNotNil(ISO3166_1Alpha2(countryName: name), "Failed to get ISO3166-1 Alpha2 for \(name)")
+            assertThat(ISO3166_1Alpha2(countryName: name), not(nilValue()))
         }
     }
     
     func test_description() {
         let codes = ISO3166_1Alpha2.knowCodes.flatMap({ ISO3166_1Alpha2(rawValue: $0) })
         for code in codes {
-            XCTAssertNotNil(code.countryName, "Failed to get description for \(code)")
+            assertThat(code.countryName, not(nilValue()))
         }
     }
 }
