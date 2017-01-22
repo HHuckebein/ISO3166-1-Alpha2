@@ -14,7 +14,7 @@ public extension String {
      */
     public var isISO3166_1Alpha2: Bool {
         if self.characters.count != 2 { return false }
-        return ISO3166_1Alpha2(value: self) != nil
+        return ISO3166_1Alpha2(rawValue: self) != nil
     }
 }
 
