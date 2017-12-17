@@ -13,7 +13,7 @@ public extension String {
      as defined [ISO3166-1 Alpha 2 on Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
      */
     public var isISO3166_1Alpha2: Bool {
-        if self.characters.count != 2 { return false }
+        if count != 2 { return false }
         return ISO3166_1Alpha2(value: self) != nil
     }
 }
@@ -64,7 +64,7 @@ public enum ISO3166_1Alpha2: String, CustomStringConvertible {
     /** Provides a list of all known 2 digit country codes. */
     public static var knowCodes: [String] {
         var knownCodes = [String]()
-        let alphabet = "abcdefghijklmnopqrstuvwxyz".characters
+        let alphabet = "abcdefghijklmnopqrstuvwxyz"
         for value1 in alphabet {
             for value2 in alphabet {
                 let code = String(value1) + String(value2)
