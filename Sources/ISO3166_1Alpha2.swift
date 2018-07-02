@@ -52,7 +52,7 @@ public enum ISO3166_1Alpha2: String, CustomStringConvertible {
     
     public init?(countryName name: String) {
         let allCodes = ISO3166_1Alpha2.knowCodes
-        let allISO = allCodes.flatMap({ ISO3166_1Alpha2(rawValue: $0) })
+        let allISO = allCodes.compactMap({ ISO3166_1Alpha2(rawValue: $0) })
         let names = allISO.map({ $0.countryName })
         if let idx = names.index(of: name) {
             self = allISO[idx]
