@@ -52,6 +52,14 @@ github "HHuckebein/ISO3166-1-Alpha2"
 Run `carthage` to build the framework and drag the built `ISO3166_1Alpha2.framework` into your Xcode project.
 
 
+### Installation with CocoaPods
+
+You can install ISO3166-1-Alpha2 by including the following line in your Podfile.
+
+```Ruby
+pod 'ISO3166_1Alpha2', '~> 0.1.0'
+```
+
 ## Author
 
 RABE_IT Services, development@berndrabe.de
