@@ -2,8 +2,6 @@ language: objective-c
 osx_image: xcode9.4
 
 env:
-  global:
-    - FRAMEWORK_NAME=ISO3166_1Alpha2
 - PROJECT=ISO3166_1Alpha2.xcodeproj DESTINATION="OS=10.0,name=iPhone 6s" SDK=iphonesimulator11.2 SCHEME=ISO3166_1Alpha2 RUN_TESTS="YES"
 - PROJECT=ISO3166_1Alpha2.xcodeproj DESTINATION="OS=10.1,name=iPhone 7"  SDK=iphonesimulator11.2 SCHEME=ISO3166_1Alpha2 RUN_TESTS="YES"
 - PROJECT=ISO3166_1Alpha2.xcodeproj DESTINATION="OS=11.1,name=iPhone 7"  SDK=iphonesimulator11.2 SCHEME=ISO3166_1Alpha2 RUN_TESTS="YES"
@@ -13,7 +11,7 @@ before_install:
   - brew update
   - brew outdated carthage || brew upgrade carthage
 
-before_script:
+install:
   - carthage bootstrap
 
 notifications:
