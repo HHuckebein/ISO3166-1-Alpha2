@@ -16,4 +16,5 @@ Provides some functions to turn a string into a ISO3166-1 Alpha 2 (given the cou
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'Sources/**/*.swift'
+  s.swift_version = '4.1'
 end
