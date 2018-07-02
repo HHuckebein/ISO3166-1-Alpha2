@@ -8,10 +8,9 @@ Provides some functions to turn a string into a ISO3166-1 Alpha 2 (given the cou
                        DESC
 
   s.homepage         = 'https://github.com/HHuckebein/ISO3166-1-Alpha2'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'HHuckebein' => 'development@berndrabe.de' }
-  s.source           = { :git => 'https://github.com/HHuckebein/ISO3166-1-Alpha2', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/HHuckebein/ISO3166-1-Alpha2.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
 
