@@ -1,1 +1,1 @@
-github "https://github.com/nschum/SwiftHamcrest.git" "master"
+github "nschum/SwiftHamcrest" ~> 2.0.0

@@ -46,14 +46,14 @@ class ISO3166_1Alpha2Tests: XCTestCase {
     }
     
     func test_InitFromCountryName() {
-        let names = ISO3166_1Alpha2.knowCodes.flatMap({ ISO3166_1Alpha2(rawValue: $0) }).map({ $0.countryName })
+        let names = ISO3166_1Alpha2.knowCodes.compactMap({ ISO3166_1Alpha2(rawValue: $0) }).map({ $0.countryName })
         for name in names {
             assertThat(ISO3166_1Alpha2(countryName: name), not(nilValue()))
         }
     }
     
     func test_description() {
-        let codes = ISO3166_1Alpha2.knowCodes.flatMap({ ISO3166_1Alpha2(rawValue: $0) })
+        let codes = ISO3166_1Alpha2.knowCodes.compactMap({ ISO3166_1Alpha2(rawValue: $0) })
         for code in codes {
             assertThat(code.countryName, not(nilValue()))
         }
