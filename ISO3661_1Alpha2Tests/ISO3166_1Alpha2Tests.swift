@@ -7,7 +7,6 @@
 //
 
 import XCTest
-import Hamcrest
 @testable import ISO3166_1Alpha2
 
 class ISO3166_1Alpha2Tests: XCTestCase {
@@ -15,47 +14,47 @@ class ISO3166_1Alpha2Tests: XCTestCase {
     
     func test_knownCodes_passes_isISO3166_1Alpha2 () {
         for code in knownCodes {
-            assertThat(code.isISO3166_1Alpha2 == true)
+            XCTAssertTrue(code.isISO3166_1Alpha2 )
         }
     }
     
     func test_knownCodes_passes_isISO3166_1Alpha2_Uppercase () {
         for code in knownCodes {
-            assertThat(code.uppercased().isISO3166_1Alpha2 == true)
+            XCTAssertTrue(code.uppercased().isISO3166_1Alpha2)
         }
     }
 
     func test_knownCodes_fails_WrongLength () {
-        assertThat("134".isISO3166_1Alpha2 == false)
+        XCTAssertFalse("134".isISO3166_1Alpha2)
     }
     
     func test_knownCodes_fails_WrongString () {
-        assertThat("XX".isISO3166_1Alpha2 == false)
+        XCTAssertFalse("XX".isISO3166_1Alpha2)
     }
     
     func test_InitFromRawValue() {
         for code in knownCodes {
-            assertThat(ISO3166_1Alpha2(rawValue: code), not(nilValue()))
-            assertThat(ISO3166_1Alpha2(value: code.uppercased()), not(nilValue()))
+            XCTAssertNotNil(ISO3166_1Alpha2(rawValue: code))
+            XCTAssertNotNil(ISO3166_1Alpha2(value: code.uppercased()))
         }
     }
     
     func test_knownCodes() {
         let allCodes = ISO3166_1Alpha2.knowCodes
-        assertThat(allCodes.count == 249)
+        XCTAssertEqual(allCodes.count, 249)
     }
     
     func test_InitFromCountryName() {
         let names = ISO3166_1Alpha2.knowCodes.compactMap({ ISO3166_1Alpha2(rawValue: $0) }).map({ $0.countryName })
         for name in names {
-            assertThat(ISO3166_1Alpha2(countryName: name), not(nilValue()))
+            XCTAssertNotNil(ISO3166_1Alpha2(countryName: name), "\(name)")
         }
     }
     
     func test_description() {
         let codes = ISO3166_1Alpha2.knowCodes.compactMap({ ISO3166_1Alpha2(rawValue: $0) })
         for code in codes {
-            assertThat(code.countryName, not(nilValue()))
+            XCTAssertNotNil(code.countryName)
         }
     }
 }

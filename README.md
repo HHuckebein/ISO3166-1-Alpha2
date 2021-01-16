@@ -57,7 +57,7 @@ Run `carthage` to build the framework and drag the built `ISO3166_1Alpha2.framew
 You can install ISO3166-1-Alpha2 by including the following line in your Podfile.
 
 ```Ruby
-pod 'ISO3166_1Alpha2', '~> 0.1.0'
+pod 'ISO3166_1Alpha2', '~> 1.0.0'
 ```
 
 ## Author
@@ -66,4 +66,4 @@ RABE_IT Services, development@berndrabe.de
 
 ## License
 
-Base64 is available under the MIT license. See the LICENSE file for more info.
+ISO3166-1-alpha2 is available under the MIT license. See the LICENSE file for more info.

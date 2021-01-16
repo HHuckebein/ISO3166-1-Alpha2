@@ -7,12 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		736D9BA21E33A3DE008AE235 /* ISO3166_1Alpha2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 736D9B981E33A3DE008AE235 /* ISO3166_1Alpha2.framework */; };
+		736D9BA21E33A3DE008AE235 /* .framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 736D9B981E33A3DE008AE235 /* .framework */; };
 		736D9BA71E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */; };
 		736D9BA91E33A3DE008AE235 /* ISO3166_1Alpha2.h in Headers */ = {isa = PBXBuildFile; fileRef = 736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		736D9BB31E33A416008AE235 /* ISO3166_1Alpha2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */; };
-		73A032B31E34E12F007F889F /* Hamcrest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73A032B21E34E12F007F889F /* Hamcrest.framework */; };
-		73A032B51E34E13D007F889F /* Hamcrest.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 73A032B21E34E12F007F889F /* Hamcrest.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,31 +23,16 @@
 		};
 /* End PBXContainerItemProxy section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		73A032B41E34E135007F889F /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				73A032B51E34E13D007F889F /* Hamcrest.framework in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
-		736D9B981E33A3DE008AE235 /* ISO3166_1Alpha2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ISO3166_1Alpha2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		736D9B981E33A3DE008AE235 /* .framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = .framework; path = ISO3166_1Alpha2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISO3166_1Alpha2.h; sourceTree = "<group>"; };
 		736D9B9C1E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BA11E33A3DE008AE235 /* ISO3166_1Alpha2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ISO3166_1Alpha2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2Tests.swift; sourceTree = "<group>"; };
 		736D9BA81E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2.swift; sourceTree = "<group>"; };
-		73A032B21E34E12F007F889F /* Hamcrest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Hamcrest.framework; path = Carthage/Build/iOS/Hamcrest.framework; sourceTree = "<group>"; };
 		73BF9BFD1E33AB6D00577C30 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC25834720EB80620062C6D3 /* ISO3166_1Alpha2.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ISO3166_1Alpha2.podspec; sourceTree = "<group>"; };
-		DC25834920EB80710062C6D3 /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73A032B31E34E12F007F889F /* Hamcrest.framework in Frameworks */,
-				736D9BA21E33A3DE008AE235 /* ISO3166_1Alpha2.framework in Frameworks */,
+				736D9BA21E33A3DE008AE235 /* .framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,20 +57,18 @@
 		736D9B8E1E33A3DE008AE235 = {
 			isa = PBXGroup;
 			children = (
-				DC25834920EB80710062C6D3 /* Cartfile */,
 				DC25834720EB80620062C6D3 /* ISO3166_1Alpha2.podspec */,
 				73BF9BFD1E33AB6D00577C30 /* README.md */,
 				736D9B9A1E33A3DE008AE235 /* Sources */,
 				736D9BA51E33A3DE008AE235 /* ISO3661_1Alpha2Tests */,
 				736D9B991E33A3DE008AE235 /* Products */,
-				73A032B11E34E12F007F889F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		736D9B991E33A3DE008AE235 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				736D9B981E33A3DE008AE235 /* ISO3166_1Alpha2.framework */,
+				736D9B981E33A3DE008AE235 /* .framework */,
 				736D9BA11E33A3DE008AE235 /* ISO3166_1Alpha2Tests.xctest */,
 			);
 			name = Products;
@@ -111,14 +91,6 @@
 				736D9BA81E33A3DE008AE235 /* Info.plist */,
 			);
 			path = ISO3661_1Alpha2Tests;
-			sourceTree = "<group>";
-		};
-		73A032B11E34E12F007F889F /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				73A032B21E34E12F007F889F /* Hamcrest.framework */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,7 +122,7 @@
 			);
 			name = ISO3166_1Alpha2;
 			productName = ISO3661_1Alpha2;
-			productReference = 736D9B981E33A3DE008AE235 /* ISO3166_1Alpha2.framework */;
+			productReference = 736D9B981E33A3DE008AE235 /* .framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		736D9BA01E33A3DE008AE235 /* ISO3166_1Alpha2Tests */ = {
@@ -160,7 +132,6 @@
 				736D9B9D1E33A3DE008AE235 /* Sources */,
 				736D9B9E1E33A3DE008AE235 /* Frameworks */,
 				736D9B9F1E33A3DE008AE235 /* Resources */,
-				73A032B41E34E135007F889F /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -179,27 +150,28 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 1230;
 				ORGANIZATIONNAME = "RABE_IT Services";
 				TargetAttributes = {
 					736D9B971E33A3DE008AE235 = {
 						CreatedOnToolsVersion = 8.2.1;
-						LastSwiftMigration = 0920;
+						LastSwiftMigration = 1230;
 						ProvisioningStyle = Automatic;
 					};
 					736D9BA01E33A3DE008AE235 = {
 						CreatedOnToolsVersion = 8.2.1;
-						LastSwiftMigration = 0920;
+						LastSwiftMigration = 1230;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 736D9B921E33A3DE008AE235 /* Build configuration list for PBXProject "ISO3166_1Alpha2" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 736D9B8E1E33A3DE008AE235;
 			productRefGroup = 736D9B991E33A3DE008AE235 /* Products */;
@@ -281,6 +253,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -343,6 +316,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -422,10 +396,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";
@@ -440,10 +411,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";

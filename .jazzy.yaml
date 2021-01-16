@@ -1,7 +1,5 @@
 author: RABE_IT Services
 author_url: https://berndrabe.de
-github_url: https://github.com/HHuckebein/StringInputValidator.git
-copyright: '© 2016 [RABE_IT Services](https://berndrabe.de) under [open source license](https://github.com/HHuckebein/StringInputValidator/blob/master/LICENSE.txt).'
+github_url: https://github.com/HHuckebein/ISO3166-1-Alpha2.git
+copyright: '© 2016-2021 [RABE_IT Services](https://berndrabe.de) under [open source license](https://github.com/HHuckebein/ISO3166-1-Alpha2/blob/master/LICENSE.txt).'
 clean: true
-
-swift_version: 3.0.2

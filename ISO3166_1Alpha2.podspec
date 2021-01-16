@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ISO3166_1Alpha2'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A simple helper type when dealing with ISO3166-1 Alpha 2 codes.'
 
   s.description      = <<-DESC
@@ -15,5 +15,9 @@ Provides some functions to turn a string into a ISO3166-1 Alpha 2 (given the cou
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'Sources/**/*.swift'
+
   s.swift_version = '4.1'
+    s.test_spec 'Tests' do |test_spec|
+    test_spec.source_files = 'ISO3661_1Alpha2Tests/*.swift'
+  end
 end
