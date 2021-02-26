@@ -3,7 +3,7 @@ What is ISO3661-1 Alpha 2 for?
 -------------------
 Provides country codes as defined by ISO3166-1 alpha 2 in swift. Simple helper type to for use in connection with IBAN/BIC check.
 
-[![Build Status](https://travis-ci.org/HHuckebein/ISO3166-1-Alpha2.svg?branch=master)](https://travis-ci.org/HHuckebein/ISO3166-1-Alpha2)
+[![Build Status](https://img.shields.io/github/workflow/status/HHuckebein/ISO3166-1-Alpha2/Swift)](https://github.com/HHuckebein/ISO3166-1-Alpha2/actions/workflows/swift.yml)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 ![CocoaPods](https://img.shields.io/cocoapods/v/ISO3166_1Alpha2.svg)
 [![codecov](https://codecov.io/gh/HHuckebein/ISO3166-1-Alpha2/branch/master/graph/badge.svg)](https://codecov.io/gh/HHuckebein/ISO3166-1-Alpha2)

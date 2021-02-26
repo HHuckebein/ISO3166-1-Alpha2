@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7348781025E980A400EB4435 /* ISO3166_1Alpha2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7348780225E97D1400EB4435 /* ISO3166_1Alpha2Tests.swift */; };
 		736D9BA21E33A3DE008AE235 /* .framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 736D9B981E33A3DE008AE235 /* .framework */; };
-		736D9BA71E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */; };
 		736D9BA91E33A3DE008AE235 /* ISO3166_1Alpha2.h in Headers */ = {isa = PBXBuildFile; fileRef = 736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		736D9BB31E33A416008AE235 /* ISO3166_1Alpha2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */; };
 /* End PBXBuildFile section */
@@ -24,11 +24,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7348780025E97D1400EB4435 /* LinuxMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinuxMain.swift; sourceTree = "<group>"; };
+		7348780225E97D1400EB4435 /* ISO3166_1Alpha2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2Tests.swift; sourceTree = "<group>"; };
+		7348780325E97D1400EB4435 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
+		7348780A25E97E2D00EB4435 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		7348780B25E97E3A00EB4435 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		736D9B981E33A3DE008AE235 /* .framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = .framework; path = ISO3166_1Alpha2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISO3166_1Alpha2.h; sourceTree = "<group>"; };
 		736D9B9C1E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BA11E33A3DE008AE235 /* ISO3166_1Alpha2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ISO3166_1Alpha2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2Tests.swift; sourceTree = "<group>"; };
 		736D9BA81E33A3DE008AE235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ISO3166_1Alpha2.swift; sourceTree = "<group>"; };
 		73BF9BFD1E33AB6D00577C30 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -54,14 +58,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		734877FE25E97CE800EB4435 /* ISO3166_1Alpha2 */ = {
+			isa = PBXGroup;
+			children = (
+				736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */,
+			);
+			path = ISO3166_1Alpha2;
+			sourceTree = "<group>";
+		};
+		734877FF25E97D1400EB4435 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				736D9BA81E33A3DE008AE235 /* Info.plist */,
+				7348780025E97D1400EB4435 /* LinuxMain.swift */,
+				7348780125E97D1400EB4435 /* ISO3166_1Alpha2Tests */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		7348780125E97D1400EB4435 /* ISO3166_1Alpha2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				7348780225E97D1400EB4435 /* ISO3166_1Alpha2Tests.swift */,
+				7348780325E97D1400EB4435 /* XCTestManifests.swift */,
+			);
+			path = ISO3166_1Alpha2Tests;
+			sourceTree = "<group>";
+		};
 		736D9B8E1E33A3DE008AE235 = {
 			isa = PBXGroup;
 			children = (
+				7348780B25E97E3A00EB4435 /* LICENSE */,
+				7348780A25E97E2D00EB4435 /* Package.swift */,
 				DC25834720EB80620062C6D3 /* ISO3166_1Alpha2.podspec */,
+				736D9B991E33A3DE008AE235 /* Products */,
 				73BF9BFD1E33AB6D00577C30 /* README.md */,
 				736D9B9A1E33A3DE008AE235 /* Sources */,
-				736D9BA51E33A3DE008AE235 /* ISO3661_1Alpha2Tests */,
-				736D9B991E33A3DE008AE235 /* Products */,
+				734877FF25E97D1400EB4435 /* Tests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,20 +110,11 @@
 		736D9B9A1E33A3DE008AE235 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				734877FE25E97CE800EB4435 /* ISO3166_1Alpha2 */,
 				736D9B9B1E33A3DE008AE235 /* ISO3166_1Alpha2.h */,
-				736D9BB21E33A416008AE235 /* ISO3166_1Alpha2.swift */,
 				736D9B9C1E33A3DE008AE235 /* Info.plist */,
 			);
 			path = Sources;
-			sourceTree = "<group>";
-		};
-		736D9BA51E33A3DE008AE235 /* ISO3661_1Alpha2Tests */ = {
-			isa = PBXGroup;
-			children = (
-				736D9BA61E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift */,
-				736D9BA81E33A3DE008AE235 /* Info.plist */,
-			);
-			path = ISO3661_1Alpha2Tests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -214,7 +238,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				736D9BA71E33A3DE008AE235 /* ISO3166_1Alpha2Tests.swift in Sources */,
+				7348781025E980A400EB4435 /* ISO3166_1Alpha2Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,7 +421,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,7 +436,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = ISO3661_1Alpha2Tests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "de.berndrabe.ISO3661-1Alpha2Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";

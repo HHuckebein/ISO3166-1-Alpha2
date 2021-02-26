@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Bernd Rabe. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 public extension String {
     /// Checks a given string wether it is a ISO366-1 Alpha 2 country code
@@ -778,7 +778,7 @@ public enum ISO3166_1Alpha2: String, CustomStringConvertible, CaseIterable {
     public init?(countryName name: String) {
         let rawValues = ISO3166_1Alpha2.allCases.map({ $0.rawValue })
         let names = ISO3166_1Alpha2.allCases.map({ $0.countryName })
-        guard let idx = names.index(of: name), let iso = ISO3166_1Alpha2(rawValue: rawValues[idx]) else { return nil }
+        guard let idx = names.firstIndex(of: name), let iso = ISO3166_1Alpha2(rawValue: rawValues[idx]) else { return nil }
         self = iso
     }
 
