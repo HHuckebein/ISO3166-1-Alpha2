@@ -51,6 +51,17 @@ github "HHuckebein/ISO3166-1-Alpha2"
 
 Run `carthage` to build the framework and drag the built `ISO3166_1Alpha2.framework` into your Xcode project.
 
+### Swift Package Manager
+
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
+
+Once you have your Swift package set up, add HHIBAN as a dependency by adding it to the `dependencies` value of your `Package.swift`.
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/HHuckebein/ISO3166-1Alpha2", .upToNextMajor(from: "1.0.2"))
+]
+```
 
 ### Installation with CocoaPods
 
