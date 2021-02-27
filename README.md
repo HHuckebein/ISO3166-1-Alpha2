@@ -6,7 +6,7 @@ Provides country codes as defined by ISO3166-1 alpha 2 in swift. Simple helper t
 [![Build Status](https://img.shields.io/github/workflow/status/HHuckebein/ISO3166-1-Alpha2/Swift)](https://github.com/HHuckebein/ISO3166-1-Alpha2/actions/workflows/swift.yml)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 ![CocoaPods](https://img.shields.io/cocoapods/v/ISO3166_1Alpha2.svg)
-[![codecov](https://codecov.io/gh/HHuckebein/ISO3166-1-Alpha2/branch/master/graph/badge.svg)](https://codecov.io/gh/HHuckebein/ISO3166-1-Alpha2)
+[![codecov](https://codecov.io/gh/HHuckebein/ISO3166-1Alpha2/branch/master/graph/badge.svg)](https://codecov.io/gh/HHuckebein/ISO3166-1Alpha2)
 
 ## How to use ISO3166-1-Alpha2
 
